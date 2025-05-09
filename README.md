@@ -15,7 +15,7 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.matrix_inv(), we can find the inverse of the given matrix.
 
 ### Step 4: 
-End the program
+Print the result and end the program.
 ## Program:
 ```
 #Program to find the inverse of a matrix.
